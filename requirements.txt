@@ -1,0 +1,4 @@
+# Prerequisites: Python 3.12 is required for OpenSeesPy compatibility
+openseespy>=3.5.0
+matplotlib>=3.8.0
+numpy>=1.26.0
